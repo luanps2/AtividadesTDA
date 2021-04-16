@@ -1,0 +1,23 @@
+.caixa{
+border-style: solid;
+border-radius: 20px;  
+border-color: rgb(29, 138, 61);  
+margin: 20%;
+}
+
+.entradas{
+border-radius: 12px;
+}
+
+.botao{
+    padding: 25px
+}
+
+.borda{
+    padding: 30px;
+}
+
+.espaco{
+    padding: 10px;
+}
+
